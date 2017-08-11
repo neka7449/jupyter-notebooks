@@ -5,3 +5,4 @@
 *logs
 *.csv
 *.h5
+*.pkl
